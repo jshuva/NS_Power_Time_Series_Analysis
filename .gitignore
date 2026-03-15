@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+MalusareMCDA5580Assignment.pdf
+Time-Series-Forecasting-for-Energy-Analytics - Copy.pptx
